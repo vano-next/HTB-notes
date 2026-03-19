@@ -1,0 +1,23 @@
+site_name: vano-next | HTB Notes
+site_url: https://vano-next.github.io/HTB-notes/
+repo_url: https://github.com/vano-next/HTB-notes
+repo_name: vano-next/HTB-notes
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: purple
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+    - content.code.annotate
+
+nav:
+  - Home: index.md
+  - Pivoting, Tunneling & Port Forwarding:
+    - The Networking Behind Pivoting: pivoting/networking-behind-pivoting.md
+    - Dynamic Port Forwarding SSH & SOCKS: pivoting/dynamic-port-forwarding.md
