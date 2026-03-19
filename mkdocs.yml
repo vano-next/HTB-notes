@@ -21,3 +21,4 @@ nav:
   - Pivoting, Tunneling & Port Forwarding:
     - The Networking Behind Pivoting: pivoting/networking-behind-pivoting.md
     - Dynamic Port Forwarding SSH & SOCKS: pivoting/dynamic-port-forwarding.md
+    - Remote/Reverse Port Forwarding: pivoting/remote-reverse-port-forwarding.md
