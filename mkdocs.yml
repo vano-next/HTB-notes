@@ -22,3 +22,10 @@ nav:
     - The Networking Behind Pivoting: pivoting/networking-behind-pivoting.md
     - Dynamic Port Forwarding SSH & SOCKS: pivoting/dynamic-port-forwarding.md
     - Remote/Reverse Port Forwarding: pivoting/remote-reverse-port-forwarding.md
+    - Meterpreter Tunneling: pivoting/meterpreter-tunneling.md
+    - Socat Reverse Shell: pivoting/socat-reverse-shell.md
+    - Socat Bind Shell: pivoting/socat-bind-shell.md
+    - Web Server Pivoting with Rpivot: pivoting/rpivot.md
+    - Port Forwarding with Netsh: pivoting/netsh-port-forwarding.md
+    - DNS Tunneling with Dnscat2: pivoting/dns-tunneling-dnscat2.md
+    - SOCKS5 Tunneling with Chisel: pivoting/chisel-socks5.md
