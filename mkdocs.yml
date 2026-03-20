@@ -29,3 +29,6 @@ nav:
     - Port Forwarding with Netsh: pivoting/netsh-port-forwarding.md
     - DNS Tunneling with Dnscat2: pivoting/dns-tunneling-dnscat2.md
     - SOCKS5 Tunneling with Chisel: pivoting/chisel-socks5.md
+    - ICMP Tunneling with ptunnel-ng: pivoting/icmp-tunneling-ptunnel.md
+    - SocksOverRDP: pivoting/socksoverrdp.md
+    - Skills Assessment: pivoting/skills-assessment.md
