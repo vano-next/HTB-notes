@@ -18,6 +18,8 @@ theme:
 
 nav:
   - Home: index.md
+    - Active Directory Enumeration & Attacks:
+      - Introduction: active-directory/intro.md
   - Pivoting, Tunneling & Port Forwarding:
     - The Networking Behind Pivoting: pivoting/networking-behind-pivoting.md
     - Dynamic Port Forwarding SSH & SOCKS: pivoting/dynamic-port-forwarding.md
