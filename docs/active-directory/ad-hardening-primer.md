@@ -1,4 +1,4 @@
-# Active Directory Hardening — Коротка шпаргалка
+# Active Directory Hardening
 
 ## Цілі hardening’у
 
