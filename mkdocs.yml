@@ -80,4 +80,4 @@ nav:
       - Exploiting Vulnerable Plugin (Mail Masta LFI): hacking-wordpress/exploiting-vulnerable-plugin-mail-masta-lfi.md
       - Attacking Users (Bruteforce): hacking-wordpress/attacking-users-bruteforce.md
       - RCE via Theme Editor (404 Webshell): hacking-wordpress/rce-via-theme-editor-404-webshell.md
-      – Skills Assessment: htb_hacking_wordpress.md
+      – Skills Assessment: hacking-wordpress-skills-assessment.md
