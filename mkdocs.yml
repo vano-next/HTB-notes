@@ -19,7 +19,38 @@ theme:
 nav:
   - Home: index.md
   - Active Directory Enumeration & Attacks:
-    - Itroduction: active-directory/intro.md
+    - Scenario: scenario.md
+    - Tools of the Trade: tools-of-the-trade.md
+    - Initial Enumeration of the Domain: initial-enumeration-of-the-domain.md
+    - Enumerating & Retrieving Password Policies: enumerating-retrieving-password-policies.md
+    - Password Spraying - Making Target User List: password-spraying-making-target-user-list.md
+    - Internal Password Spraying from Linux: internal-password-spraying-from-linux.md
+    - Internal Password Spraying from Windows: internal-password-spraying-from-windows.md
+    - LLMNR & NBT-NS Poisoning from Linux: llmnr-nbt-ns-poisoning-from-linux.md
+    - LLMNR & NBT-NS Poisoning from Windows: llmnr-nbt-ns-poisoning-from-windows.md
+    - Credentialed Enumeration from Linux: credentialed-enumeration-from-linux.md
+    - Credentialed Enumeration from Windows: credentialed-enumeration-from-windows.md
+    - Kerberoasting from Linux: kerberoasting-from-linux.md
+    - Kerberoasting from Windows: kerberoasting-from-windows.md
+    - Cross-Forest Kerberoast from Linux: cross-forest-kerberoast-linux.md
+    - Cross-Forest Kerberoast from Windows: cross-forest-kerberoast-windows.md
+    - Kerberos Double Hop: kerberos-double-hop.md
+    - ACL Enumeration: acl-enumeration.md
+    - ACL Abuse Primer: acl-abuse-primer.md
+    - ACL Abuse Tactics: acl-abuse-tactics.md
+    - DCSync: dcsync.md
+    - Domain Trusts Primer: domain-trusts-primer.md
+    - Domain Trusts ExtraSIDs from Linux: domain-trusts-extrasids-linux.md
+    - Domain Trusts ExtraSIDs from Windows: domain-trusts-extrasids-windows.md
+    - AD Auditing Techniques Primer: ad-auditing-techniques-primer.md
+    - AD Hardening Primer: ad-hardening-primer.md
+    - Living off the Land: living-off-the-land.md
+    - Miscellaneous Misconfigurations: miscellaneous-misconfigurations.md
+    - Bleeding Edge Vulnerabilities: bleeding-edge-vulnerabilities.md
+    - Privileged Access: privileged-access.md
+    - AD Enumeration & Attacks - Skills Assessment Part I: ad-enumeration-attacks-skills-assessment-part-1.md
+
+    
   - Pivoting, Tunneling & Port Forwarding:
     - The Networking Behind Pivoting: pivoting/networking-behind-pivoting.md
     - Dynamic Port Forwarding SSH & SOCKS: pivoting/dynamic-port-forwarding.md
