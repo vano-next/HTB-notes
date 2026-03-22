@@ -69,15 +69,15 @@ nav:
     - SocksOverRDP: pivoting/socksoverrdp.md
     - Skills Assessment: pivoting/skills-assessment.md
 
-   - Hacking WordPress:
-      - Intro: hacking-wordpress/intro.md
-      - WordPress Structure: hacking-wordpress/wordpress-structure.md
-      - Core Version Enumeration: hacking-wordpress/core-version-enumeration.md
-      - Directory Indexing (Task): hacking-wordpress/directory-indexing.md
-      - User Enumeration: hacking-wordpress/user-enumeration.md
-      - XML-RPC Enumeration: hacking-wordpress/xmlrpc-enumeration.md
-      - WPScan Enumeration: hacking-wordpress/wpscan-enumeration.md
-      - Exploiting Vulnerable Plugin (Mail Masta LFI): hacking-wordpress/exploiting-vulnerable-plugin-mail-masta-lfi.md
-      - Attacking Users (Bruteforce): hacking-wordpress/attacking-users-bruteforce.md
-      - RCE via Theme Editor (404 Webshell): hacking-wordpress/rce-via-theme-editor-404-webshell.md
-      – Skills Assessment: hacking-wordpress-skills-assessment.md
+ - Hacking WordPress:
+    - Intro: hacking-wordpress/intro.md
+    - WordPress Structure: hacking-wordpress/wordpress-structure.md
+    - Core Version Enumeration: hacking-wordpress/core-version-enumeration.md
+    - Directory Indexing (Task): hacking-wordpress/directory-indexing.md
+    - User Enumeration: hacking-wordpress/user-enumeration.md
+    - XML-RPC Enumeration: hacking-wordpress/xmlrpc-enumeration.md
+    - WPScan Enumeration: hacking-wordpress/wpscan-enumeration.md
+    - Exploiting Vulnerable Plugin (Mail Masta LFI): hacking-wordpress/exploiting-vulnerable-plugin-mail-masta-lfi.md
+    - Attacking Users (Bruteforce): hacking-wordpress/attacking-users-bruteforce.md
+    - RCE via Theme Editor (404 Webshell): hacking-wordpress/rce-via-theme-editor-404-webshell.md
+    – Skills Assessment: hacking-wordpress-skills-assessment.md
