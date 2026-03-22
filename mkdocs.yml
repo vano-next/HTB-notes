@@ -50,6 +50,7 @@ nav:
     - Privileged Access: privileged-access.md
     - AD Enumeration & Attacks - Skills Assessment Part I: ad-enumeration-attacks-skills-assessment-part-1.md
     - AD Enumeration & Attacks – Skills Assessment Part II: ad-enum-attacks-sa2.md
+    - AD Enumeration & Attacks – Beyond this Module: ad-enum-attacks-Beyond-this-Module.md
     
   - Pivoting, Tunneling & Port Forwarding:
     - The Networking Behind Pivoting: pivoting/networking-behind-pivoting.md
