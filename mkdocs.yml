@@ -19,8 +19,10 @@ theme:
 nav:
   - Home: index.md
   - Active Directory Enumeration & Attacks:
+    - Вступ: active-directory/intro.md    
     - Scenario: scenario.md
     - Tools of the Trade: tools-of-the-trade.md
+    - External Recon & Enumeration Principles: active-directory/external-recon-enumeration-principles.md
     - Initial Enumeration of the Domain: initial-enumeration-of-the-domain.md
     - Enumerating & Retrieving Password Policies: enumerating-retrieving-password-policies.md
     - Password Spraying - Making Target User List: password-spraying-making-target-user-list.md
