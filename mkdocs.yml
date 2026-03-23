@@ -18,6 +18,7 @@ theme:
 
 nav:
   - Home: index.md
+<<<<<<< HEAD
   - Active Directory Enumeration & Attacks:
     - Вступ: active-directory/intro.md    
     - Scenario: scenario.md
@@ -81,3 +82,8 @@ nav:
     - Attacking Users (Bruteforce): hacking-wordpress/attacking-users-bruteforce.md
     - RCE via Theme Editor (404 Webshell): hacking-wordpress/rce-via-theme-editor-404-webshell.md
     – Skills Assessment: hacking-wordpress-skills-assessment.md
+=======
+  - Pivoting, Tunneling & Port Forwarding:
+    - The Networking Behind Pivoting: pivoting/networking-behind-pivoting.md
+    - Dynamic Port Forwarding SSH & SOCKS: pivoting/dynamic-port-forwarding.md
+>>>>>>> 15b0fdc (Move active-directory under CPTS)
