@@ -18,72 +18,66 @@ theme:
 
 nav:
   - Home: index.md
-<<<<<<< HEAD
-  - Active Directory Enumeration & Attacks:
-    - Вступ: active-directory/intro.md    
-    - Scenario: scenario.md
-    - Tools of the Trade: tools-of-the-trade.md
-    - External Recon & Enumeration Principles: active-directory/external-recon-enumeration-principles.md
-    - Initial Enumeration of the Domain: initial-enumeration-of-the-domain.md
-    - Enumerating & Retrieving Password Policies: enumerating-retrieving-password-policies.md
-    - Password Spraying - Making Target User List: password-spraying-making-target-user-list.md
-    - Internal Password Spraying from Linux: internal-password-spraying-from-linux.md
-    - Internal Password Spraying from Windows: internal-password-spraying-from-windows.md
-    - LLMNR & NBT-NS Poisoning from Linux: llmnr-nbt-ns-poisoning-from-linux.md
-    - LLMNR & NBT-NS Poisoning from Windows: llmnr-nbt-ns-poisoning-from-windows.md
-    - Credentialed Enumeration from Linux: credentialed-enumeration-from-linux.md
-    - Credentialed Enumeration from Windows: credentialed-enumeration-from-windows.md
-    - Kerberoasting from Linux: kerberoasting-from-linux.md
-    - Kerberoasting from Windows: kerberoasting-from-windows.md
-    - Cross-Forest Kerberoast from Linux: cross-forest-kerberoast-linux.md
-    - Cross-Forest Kerberoast from Windows: cross-forest-kerberoast-windows.md
-    - Kerberos Double Hop: kerberos-double-hop.md
-    - ACL Enumeration: acl-enumeration.md
-    - ACL Abuse Primer: acl-abuse-primer.md
-    - ACL Abuse Tactics: acl-abuse-tactics.md
-    - DCSync: dcsync.md
-    - Domain Trusts Primer: domain-trusts-primer.md
-    - Domain Trusts ExtraSIDs from Linux: domain-trusts-extrasids-linux.md
-    - Domain Trusts ExtraSIDs from Windows: domain-trusts-extrasids-windows.md
-    - AD Auditing Techniques Primer: ad-auditing-techniques-primer.md
-    - AD Hardening Primer: ad-hardening-primer.md
-    - Living off the Land: living-off-the-land.md
-    - Miscellaneous Misconfigurations: miscellaneous-misconfigurations.md
-    - Bleeding Edge Vulnerabilities: bleeding-edge-vulnerabilities.md
-    - Privileged Access: privileged-access.md
-    - AD Enumeration & Attacks - Skills Assessment Part I: ad-enumeration-attacks-skills-assessment-part-1.md
-    - AD Enumeration & Attacks – Skills Assessment Part II: ad-enum-attacks-sa2.md
-    - AD Enumeration & Attacks – Beyond this Module: ad-enum-attacks-Beyond-this-Module.md
-    
-  - Pivoting, Tunneling & Port Forwarding:
-    - The Networking Behind Pivoting: pivoting/networking-behind-pivoting.md
-    - Dynamic Port Forwarding SSH & SOCKS: pivoting/dynamic-port-forwarding.md
-    - Remote/Reverse Port Forwarding: pivoting/remote-reverse-port-forwarding.md
-    - Meterpreter Tunneling: pivoting/meterpreter-tunneling.md
-    - Socat Reverse Shell: pivoting/socat-reverse-shell.md
-    - Socat Bind Shell: pivoting/socat-bind-shell.md
-    - Web Server Pivoting with Rpivot: pivoting/rpivot.md
-    - Port Forwarding with Netsh: pivoting/netsh-port-forwarding.md
-    - DNS Tunneling with Dnscat2: pivoting/dns-tunneling-dnscat2.md
-    - SOCKS5 Tunneling with Chisel: pivoting/chisel-socks5.md
-    - ICMP Tunneling with ptunnel-ng: pivoting/icmp-tunneling-ptunnel.md
-    - SocksOverRDP: pivoting/socksoverrdp.md
-    - Skills Assessment: pivoting/skills-assessment.md
-
- - Hacking WordPress:
-    - Intro: hacking-wordpress/intro.md
-    - WordPress Structure: hacking-wordpress/wordpress-structure.md
-    - Core Version Enumeration: hacking-wordpress/core-version-enumeration.md
-    - Directory Indexing (Task): hacking-wordpress/directory-indexing.md
-    - User Enumeration: hacking-wordpress/user-enumeration.md
-    - XML-RPC Enumeration: hacking-wordpress/xmlrpc-enumeration.md
-    - WPScan Enumeration: hacking-wordpress/wpscan-enumeration.md
-    - Exploiting Vulnerable Plugin (Mail Masta LFI): hacking-wordpress/exploiting-vulnerable-plugin-mail-masta-lfi.md
-    - Attacking Users (Bruteforce): hacking-wordpress/attacking-users-bruteforce.md
-    - RCE via Theme Editor (404 Webshell): hacking-wordpress/rce-via-theme-editor-404-webshell.md
-    – Skills Assessment: hacking-wordpress-skills-assessment.md
-=======
-  - Pivoting, Tunneling & Port Forwarding:
-    - The Networking Behind Pivoting: pivoting/networking-behind-pivoting.md
-    - Dynamic Port Forwarding SSH & SOCKS: pivoting/dynamic-port-forwarding.md
->>>>>>> 15b0fdc (Move active-directory under CPTS)
+  - CPTS:
+    - Active Directory Enumeration & Attacks:
+      - Вступ: CPTS/active-directory/intro.md
+      - Scenario: CPTS/active-directory/scenario.md
+      - Tools of the Trade: CPTS/active-directory/tools-of-the-trade.md
+      - External Recon & Enumeration Principles: CPTS/active-directory/external-recon-enumeration-principles.md
+      - Initial Enumeration of the Domain: CPTS/active-directory/initial-enumeration-of-the-domain.md
+      - Enumerating & Retrieving Password Policies: CPTS/active-directory/enumerating-retrieving-password-policies.md
+      - Password Spraying - Making Target User List: CPTS/active-directory/password-spraying-making-target-user-list.md
+      - Internal Password Spraying from Linux: CPTS/active-directory/internal-password-spraying-from-linux.md
+      - Internal Password Spraying from Windows: CPTS/active-directory/internal-password-spraying-from-windows.md
+      - LLMNR & NBT-NS Poisoning from Linux: CPTS/active-directory/llmnr-nbt-ns-poisoning-from-linux.md
+      - LLMNR & NBT-NS Poisoning from Windows: CPTS/active-directory/llmnr-nbt-ns-poisoning-from-windows.md
+      - Credentialed Enumeration from Linux: CPTS/active-directory/credentialed-enumeration-from-linux.md
+      - Credentialed Enumeration from Windows: CPTS/active-directory/credentialed-enumeration-from-windows.md
+      - Kerberoasting from Linux: CPTS/active-directory/kerberoasting-from-linux.md
+      - Kerberoasting from Windows: CPTS/active-directory/kerberoasting-from-windows.md
+      - Cross-Forest Kerberoast from Linux: CPTS/active-directory/cross-forest-kerberoast-linux.md
+      - Cross-Forest Kerberoast from Windows: CPTS/active-directory/cross-forest-kerberoast-windows.md
+      - Kerberos Double Hop: CPTS/active-directory/kerberos-double-hop.md
+      - ACL Enumeration: CPTS/active-directory/acl-enumeration.md
+      - ACL Abuse Primer: CPTS/active-directory/acl-abuse-primer.md
+      - ACL Abuse Tactics: CPTS/active-directory/acl-abuse-tactics.md
+      - DCSync: CPTS/active-directory/dcsync.md
+      - Domain Trusts Primer: CPTS/active-directory/domain-trusts-primer.md
+      - Domain Trusts ExtraSIDs from Linux: CPTS/active-directory/domain-trusts-extrasids-linux.md
+      - Domain Trusts ExtraSIDs from Windows: CPTS/active-directory/domain-trusts-extrasids-windows.md
+      - AD Auditing Techniques Primer: CPTS/active-directory/ad-auditing-techniques-primer.md
+      - AD Hardening Primer: CPTS/active-directory/ad-hardening-primer.md
+      - Living off the Land: CPTS/active-directory/living-off-the-land.md
+      - Miscellaneous Misconfigurations: CPTS/active-directory/miscellaneous-misconfigurations.md
+      - Bleeding Edge Vulnerabilities: CPTS/active-directory/bleeding-edge-vulnerabilities.md
+      - Privileged Access: CPTS/active-directory/privileged-access.md
+      - AD Enumeration & Attacks - Skills Assessment Part I: CPTS/active-directory/ad-enumeration-attacks-skills-assessment-part-1.md
+      - AD Enumeration & Attacks - Skills Assessment Part II: CPTS/active-directory/ad-enum-attacks-sa2.md
+      - AD Enumeration & Attacks - Beyond this Module: CPTS/active-directory/ad-enum-attacks-Beyond-this-Module.md
+    - Pivoting, Tunneling & Port Forwarding:
+      - The Networking Behind Pivoting: CPTS/pivoting/networking-behind-pivoting.md
+      - Dynamic Port Forwarding SSH & SOCKS: CPTS/pivoting/dynamic-port-forwarding.md
+      - Remote/Reverse Port Forwarding: CPTS/pivoting/remote-reverse-port-forwarding.md
+      - Meterpreter Tunneling: CPTS/pivoting/meterpreter-tunneling.md
+      - Socat Reverse Shell: CPTS/pivoting/socat-reverse-shell.md
+      - Socat Bind Shell: CPTS/pivoting/socat-bind-shell.md
+      - Web Server Pivoting with Rpivot: CPTS/pivoting/rpivot.md
+      - Port Forwarding with Netsh: CPTS/pivoting/netsh-port-forwarding.md
+      - DNS Tunneling with Dnscat2: CPTS/pivoting/dns-tunneling-dnscat2.md
+      - SOCKS5 Tunneling with Chisel: CPTS/pivoting/chisel-socks5.md
+      - ICMP Tunneling with ptunnel-ng: CPTS/pivoting/icmp-tunneling-ptunnel.md
+      - SocksOverRDP: CPTS/pivoting/socksoverrdp.md
+      - Skills Assessment: CPTS/pivoting/skills-assessment.md
+  - CJCA:
+    - Hacking WordPress:
+      - Intro: CJCA/hacking-wordpress/intro.md
+      - WordPress Structure: CJCA/hacking-wordpress/wordpress-structure.md
+      - Core Version Enumeration: CJCA/hacking-wordpress/core-version-enumeration.md
+      - Directory Indexing (Task): CJCA/hacking-wordpress/directory-indexing.md
+      - User Enumeration: CJCA/hacking-wordpress/user-enumeration.md
+      - XML-RPC Enumeration: CJCA/hacking-wordpress/xmlrpc-enumeration.md
+      - WPScan Enumeration: CJCA/hacking-wordpress/wpscan-enumeration.md
+      - Exploiting Vulnerable Plugin (Mail Masta LFI): CJCA/hacking-wordpress/exploiting-vulnerable-plugin-mail-masta-lfi.md
+      - Attacking Users (Bruteforce): CJCA/hacking-wordpress/attacking-users-bruteforce.md
+      - RCE via Theme Editor (404 Webshell): CJCA/hacking-wordpress/rce-via-theme-editor-404-webshell.md
+      - Skills Assessment: CJCA/hacking-wordpress/hacking-wordpress-skills-assessment.md
