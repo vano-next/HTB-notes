@@ -19,6 +19,20 @@ theme:
 nav:
   - Home: index.md
   - CPTS:
+    - Pivoting, Tunneling & Port Forwarding:
+      - The Networking Behind Pivoting: CPTS/pivoting/networking-behind-pivoting.md
+      - Dynamic Port Forwarding SSH & SOCKS: CPTS/pivoting/dynamic-port-forwarding.md
+      - Remote/Reverse Port Forwarding: CPTS/pivoting/remote-reverse-port-forwarding.md
+      - Meterpreter Tunneling: CPTS/pivoting/meterpreter-tunneling.md
+      - Socat Reverse Shell: CPTS/pivoting/socat-reverse-shell.md
+      - Socat Bind Shell: CPTS/pivoting/socat-bind-shell.md
+      - Web Server Pivoting with Rpivot: CPTS/pivoting/rpivot.md
+      - Port Forwarding with Netsh: CPTS/pivoting/netsh-port-forwarding.md
+      - DNS Tunneling with Dnscat2: CPTS/pivoting/dns-tunneling-dnscat2.md
+      - SOCKS5 Tunneling with Chisel: CPTS/pivoting/chisel-socks5.md
+      - ICMP Tunneling with ptunnel-ng: CPTS/pivoting/icmp-tunneling-ptunnel.md
+      - SocksOverRDP: CPTS/pivoting/socksoverrdp.md
+      - Skills Assessment: CPTS/pivoting/skills-assessment.md
     - Active Directory Enumeration & Attacks:
       - Вступ: CPTS/active-directory/intro.md
       - Scenario: CPTS/active-directory/scenario.md
@@ -54,20 +68,7 @@ nav:
       - AD Enumeration & Attacks - Skills Assessment Part I: CPTS/active-directory/ad-enumeration-attacks-skills-assessment-part-1.md
       - AD Enumeration & Attacks - Skills Assessment Part II: CPTS/active-directory/ad-enum-attacks-sa2.md
       - AD Enumeration & Attacks - Beyond this Module: CPTS/active-directory/ad-enum-attacks-Beyond-this-Module.md
-    - Pivoting, Tunneling & Port Forwarding:
-      - The Networking Behind Pivoting: CPTS/pivoting/networking-behind-pivoting.md
-      - Dynamic Port Forwarding SSH & SOCKS: CPTS/pivoting/dynamic-port-forwarding.md
-      - Remote/Reverse Port Forwarding: CPTS/pivoting/remote-reverse-port-forwarding.md
-      - Meterpreter Tunneling: CPTS/pivoting/meterpreter-tunneling.md
-      - Socat Reverse Shell: CPTS/pivoting/socat-reverse-shell.md
-      - Socat Bind Shell: CPTS/pivoting/socat-bind-shell.md
-      - Web Server Pivoting with Rpivot: CPTS/pivoting/rpivot.md
-      - Port Forwarding with Netsh: CPTS/pivoting/netsh-port-forwarding.md
-      - DNS Tunneling with Dnscat2: CPTS/pivoting/dns-tunneling-dnscat2.md
-      - SOCKS5 Tunneling with Chisel: CPTS/pivoting/chisel-socks5.md
-      - ICMP Tunneling with ptunnel-ng: CPTS/pivoting/icmp-tunneling-ptunnel.md
-      - SocksOverRDP: CPTS/pivoting/socksoverrdp.md
-      - Skills Assessment: CPTS/pivoting/skills-assessment.md
+
   - CJCA:
     - Hacking WordPress:
       - Intro: CJCA/hacking-wordpress/intro.md
