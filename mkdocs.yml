@@ -76,6 +76,8 @@ nav:
       - Encoding and Decoding: CPTS/using-web-proxies/encoding-and-decoding.md
       - Proxying Tools: CPTS/using-web-proxies/proxying-tools.md
       - Burp Intruder: CPTS/using-web-proxies/burp-intruder.md
+      - ZAP Fuzzer: CPTS/using-web-proxies/zap-fuzzer.md
+      - ZAP Scanner: CPTS/using-web-proxies/zap-scanner.md
 
   - CJCA:
     - Hacking WordPress:
