@@ -79,6 +79,9 @@ nav:
       - ZAP Fuzzer: CPTS/using-web-proxies/zap-fuzzer.md
       - ZAP Scanner: CPTS/using-web-proxies/zap-scanner.md
       - Skills Assessment: CPTS/using-web-proxies/skills-assessment.md
+      
+    - Attacking Web Applications with Ffuf:
+      - Directory Fuzzing: CPTS/Attacking-Web-Applications-with-Ffuf/Directory-Fuzzing.md
 
   - CJCA:
     - Hacking WordPress:
