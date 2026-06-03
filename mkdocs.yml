@@ -85,6 +85,10 @@ nav:
       - Page Fuzzing: CPTS/Attacking-Web-Applications-with-Ffuf/Page-Fuzzing.md
       - Recursive Fuzzing: CPTS/Attacking-Web-Applications-with-Ffuf/Recursive-Fuzzing.md
       - Sub-domain Fuzzing: CPTS/Attacking-Web-Applications-with-Ffuf/Sub-domain-Fuzzing.md
+      - VHost Fuzzing: CPTS/Attacking-Web-Applications-with-Ffuf/VHost-Fuzzing.md
+      - Parameter Fuzzing: CPTS/Attacking-Web-Applications-with-Ffuf/Parameter-Fuzzing.md
+      - Value Fuzzing: CPTS/Attacking-Web-Applications-with-Ffuf/Value-Fuzzing.md
+      - Skills Assessment: CPTS/Attacking-Web-Applications-with-Ffuf/Skills-Assessment.md
 
   - CJCA:
     - Hacking WordPress:
