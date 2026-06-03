@@ -83,6 +83,8 @@ nav:
     - Attacking Web Applications with Ffuf:
       - Directory Fuzzing: CPTS/Attacking-Web-Applications-with-Ffuf/Directory-Fuzzing.md
       - Page Fuzzing: CPTS/Attacking-Web-Applications-with-Ffuf/Page-Fuzzing.md
+      - Recursive Fuzzing: CPTS/Attacking-Web-Applications-with-Ffuf/Recursive-Fuzzing.md
+      - Sub-domain Fuzzing: CPTS/Attacking-Web-Applications-with-Ffuf/Sub-domain-Fuzzing.md
 
   - CJCA:
     - Hacking WordPress:
