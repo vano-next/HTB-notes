@@ -1,7 +1,7 @@
 # MySQL — Remote Connection & Basic Enumeration
 
 ## Модуль
-[SQL Injection Fundamentals — MySQL Statements](https://academy.hackthebox.com/app/module/33/section/183)
+[SQL Injection Fundamentals — Intro to MySQL](https://academy.hackthebox.com/app/module/33/section/183)
 
 ## Команда підключення
 
