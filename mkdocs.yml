@@ -90,6 +90,28 @@ nav:
       - Value Fuzzing: CPTS/Attacking-Web-Applications-with-Ffuf/Value-Fuzzing.md
       - Skills Assessment: CPTS/Attacking-Web-Applications-with-Ffuf/Skills-Assessment.md
 
+    - Login Brute Forcing:
+      - PIN Brute Force: CPTS/Login-Brute-Forcing/PIN-Brute-Force.md
+      - Dictionary Attack: CPTS/Login-Brute-Forcing/Dictionary-Attack.md
+      - Basic Auth Brute Force: CPTS/Login-Brute-Forcing/Basic-Auth-Brute-Force.md
+      - Web Login Form Brute Force: CPTS/Login-Brute-Forcing/Web-Login-Form-Brute-Force.md
+      - SSH and FTP Brute Force Chain: CPTS/Login-Brute-Forcing/SSH-FTP-Brute-Force-Chain.md
+      - Custom Wordlist Attack: CPTS/Login-Brute-Forcing/Custom-Wordlist-Attack.md
+      - Skills Assessment: CPTS/Login-Brute-Forcing/Skills-Assessment.md
+
+    - SQL Injection Fundamentals:
+      - MySQL Intro: CPTS/SQL-Injection-Fundamentals/Intro-to-MySQL.md
+      - SQL SELECT Queries: CPTS/SQL-Injection-Fundamentals/SQL-SELECT-Queries.md
+      - SQL Operators: CPTS/SQL-Injection-Fundamentals/SQL-Operators.md
+      - COUNT and Combined Operators: CPTS/SQL-Injection-Fundamentals/COUNT-Combined-Operators.md
+      - Auth Bypass Comment Injection: CPTS/SQL-Injection-Fundamentals/Auth-Bypass-Comment-Injection.md
+      - Auth Bypass OR id Injection: CPTS/SQL-Injection-Fundamentals/Auth-Bypass-OR-id-Injection.md
+      - UNION Statement: CPTS/SQL-Injection-Fundamentals/UNION-Statement.md
+      - UNION-based Injection: CPTS/SQL-Injection-Fundamentals/UNION-based-Injection.md
+      - Cross-Database Enumeration: CPTS/SQL-Injection-Fundamentals/Cross-Database-Enumeration.md
+      - Reading Files via LOAD_FILE: CPTS/SQL-Injection-Fundamentals/Reading-Files-LOAD_FILE.md
+      - Writing Files and Webshell: CPTS/SQL-Injection-Fundamentals/Writing-Files-Webshell.md
+
   - CJCA:
     - Hacking WordPress:
       - Intro: CJCA/hacking-wordpress/intro.md
