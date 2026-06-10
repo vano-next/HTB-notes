@@ -111,7 +111,7 @@ nav:
       - Cross-Database Enumeration: CPTS/SQL-Injection-Fundamentals/Cross-Database-Enumeration.md
       - Reading Files via LOAD_FILE: CPTS/SQL-Injection-Fundamentals/Reading-Files-LOAD_FILE.md
       - Writing Files and Webshell: CPTS/SQL-Injection-Fundamentals/Writing-Files-Webshell.md
-      
+      - Skills Assessment: CPTS/SQL-Injection-Fundamentals/Skills-Assessment.md
 
   - CJCA:
     - Hacking WordPress:
