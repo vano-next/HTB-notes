@@ -112,6 +112,15 @@ nav:
       - Reading Files via LOAD_FILE: CPTS/SQL-Injection-Fundamentals/Reading-Files-LOAD_FILE.md
       - Writing Files and Webshell: CPTS/SQL-Injection-Fundamentals/Writing-Files-Webshell.md
       - Skills Assessment: CPTS/SQL-Injection-Fundamentals/Skills-Assessment.md
+      
+    - SQLMap Essentials:
+      - Theory and Commands: CPTS/SQLMap-Essentials/Theory-and-Commands.md
+      - Injection Points POST Cookie JSON: CPTS/SQLMap-Essentials/Injection-Points-POST-Cookie-JSON.md
+      - Advanced Techniques OR Prefix UNION: CPTS/SQLMap-Essentials/Advanced-Techniques-OR-Prefix-UNION.md
+      - Basic GET Injection: CPTS/SQLMap-Essentials/Basic-GET-Injection.md
+      - DB Enumeration and Data Extraction: CPTS/SQLMap-Essentials/DB-Enumeration-Data-Extraction.md
+      - Anti-CSRF Unique-ID Tamper Scripts: CPTS/SQLMap-Essentials/Anti-CSRF-UniqueID-Tamper-Scripts.md
+      - File Read and OS Shell: CPTS/SQLMap-Essentials/File-Read-OS-Shell.md
 
   - CJCA:
     - Hacking WordPress:
