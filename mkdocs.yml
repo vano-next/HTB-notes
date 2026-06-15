@@ -121,6 +121,7 @@ nav:
       - DB Enumeration and Data Extraction: CPTS/SQLMap-Essentials/DB-Enumeration-Data-Extraction.md
       - Anti-CSRF Unique-ID Tamper Scripts: CPTS/SQLMap-Essentials/Anti-CSRF-UniqueID-Tamper-Scripts.md
       - File Read and OS Shell: CPTS/SQLMap-Essentials/File-Read-OS-Shell.md
+      - Skills Assessment (final_flag): CPTS/SQLMap-Essentials/Skills-Assessment-final-flag.md
 
   - CJCA:
     - Hacking WordPress:
