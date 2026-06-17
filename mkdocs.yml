@@ -132,6 +132,13 @@ nav:
       - Session Hijacking: CPTS/XSS/Session-Hijacking.md
       - Skills Assessment: CPTS/XSS/Skills-Assessment.md
 
+    - File Inclusion:
+      - Local File Inclusion (LFI): CPTS/File-Inclusion/LFI-Path-Traversal.md
+      - Bypass Filters: CPTS/File-Inclusion/LFI-Bypass-Filters.md
+      - PHP Filters: CPTS/File-Inclusion/PHP-Filters.md
+      - PHP Wrappers RCE: CPTS/File-Inclusion/PHP-Wrappers-RCE.md
+      - Remote File Inclusion (RFI): CPTS/File-Inclusion/Remote-File-Inclusion.md
+
   - CJCA:
     - Hacking WordPress:
       - Intro: CJCA/hacking-wordpress/intro.md
