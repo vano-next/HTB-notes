@@ -123,6 +123,15 @@ nav:
       - File Read and OS Shell: CPTS/SQLMap-Essentials/File-Read-OS-Shell.md
       - Skills Assessment (final_flag): CPTS/SQLMap-Essentials/Skills-Assessment-final-flag.md
 
+    - Cross-Site Scripting (XSS):
+      - Stored XSS: CPTS/XSS/Stored-XSS.md
+      - Reflected XSS: CPTS/XSS/Reflected-XSS.md
+      - DOM-Based XSS: CPTS/XSS/DOM-Based-XSS.md
+      - XSS Discovery: CPTS/XSS/XSS-Discovery.md
+      - Phishing: CPTS/XSS/Phishing.md
+      - Session Hijacking: CPTS/XSS/Session-Hijacking.md
+      - Skills Assessment: CPTS/XSS/Skills-Assessment.md
+
   - CJCA:
     - Hacking WordPress:
       - Intro: CJCA/hacking-wordpress/intro.md
