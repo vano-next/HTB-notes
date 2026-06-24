@@ -138,6 +138,11 @@ nav:
       - PHP Filters: CPTS/File-Inclusion/PHP-Filters.md
       - PHP Wrappers RCE: CPTS/File-Inclusion/PHP-Wrappers-RCE.md
       - Remote File Inclusion (RFI): CPTS/File-Inclusion/Remote-File-Inclusion.md
+      - LFI + File Uploads: CPTS/File-Inclusion/LFI-File-Uploads.md
+      - Log & Session Poisoning: CPTS/File-Inclusion/Log-Session-Poisoning.md
+      - Automated Scanning: CPTS/File-Inclusion/Automated-Scanning.md
+      - Hardening (disable_functions): CPTS/File-Inclusion/Hardening.md
+      - Skills Assessment: CPTS/File-Inclusion/Skills-Assessment.md
 
   - CJCA:
     - Hacking WordPress:
