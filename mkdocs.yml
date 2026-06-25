@@ -154,6 +154,17 @@ nav:
       - Limited Uploads (SVG XXE): CPTS/File-Upload-Attacks/Limited-SVG-XXE.md
       - Skills Assessment: CPTS/File-Upload-Attacks/Skills-Assessment.md
 
+    - Command Injections:
+      - Detection: CPTS/Command-Injections/Detection.md
+      - Injecting Commands (Front-End Bypass): CPTS/Command-Injections/Injecting-Commands.md
+      - Injection Operators: CPTS/Command-Injections/Injection-Operators.md
+      - Identifying Filters (Blacklist): CPTS/Command-Injections/Identifying-Filters.md
+      - Bypassing Space Filters: CPTS/Command-Injections/Bypassing-Space-Filters.md
+      - Bypassing Other Blacklisted Characters: CPTS/Command-Injections/Bypassing-Other-Characters.md
+      - Bypassing Blacklisted Commands: CPTS/Command-Injections/Bypassing-Blacklisted-Commands.md
+      - Advanced Command Obfuscation (Base64): CPTS/Command-Injections/Advanced-Obfuscation.md
+      - Skills Assessment (File Manager GET): CPTS/Command-Injections/Skills-Assessment.md
+
   - CJCA:
     - Hacking WordPress:
       - Intro: CJCA/hacking-wordpress/intro.md
