@@ -144,6 +144,16 @@ nav:
       - Hardening (disable_functions): CPTS/File-Inclusion/Hardening.md
       - Skills Assessment: CPTS/File-Inclusion/Skills-Assessment.md
 
+    - File Upload Attacks:
+      - Absent Validation: CPTS/File-Upload-Attacks/Absent-Validation.md
+      - Client-Side Validation Bypass: CPTS/File-Upload-Attacks/Client-Side-Validation.md
+      - Blacklist Bypass (Extension Fuzzing): CPTS/File-Upload-Attacks/Blacklist-Bypass.md
+      - Whitelist Bypass (phar): CPTS/File-Upload-Attacks/Whitelist-Bypass.md
+      - Blacklist + Whitelist Bypass: CPTS/File-Upload-Attacks/Double-Extension-Bypass.md
+      - All Filters Bypass (Polyglot): CPTS/File-Upload-Attacks/All-Filters-Bypass.md
+      - Limited Uploads (SVG XXE): CPTS/File-Upload-Attacks/Limited-SVG-XXE.md
+      - Skills Assessment: CPTS/File-Upload-Attacks/Skills-Assessment.md
+
   - CJCA:
     - Hacking WordPress:
       - Intro: CJCA/hacking-wordpress/intro.md
