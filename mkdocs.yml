@@ -165,6 +165,18 @@ nav:
       - Advanced Command Obfuscation (Base64): CPTS/Command-Injections/Advanced-Obfuscation.md
       - Skills Assessment (File Manager GET): CPTS/Command-Injections/Skills-Assessment.md
 
+      - Web Attacks:
+        - HTTP Verb Tampering (Bypass Basic Auth): CPTS/Web-Attacks/HTTP-Verb-Tampering-Bypass-Basic-Auth.md
+        - Command Injection Filter Bypass (HTTP Verb Tampering): CPTS/Web-Attacks/Command-Injection-Filter-Bypass-Verb-Tampering.md
+        - IDOR Mass Enumeration (documents.php): CPTS/Web-Attacks/IDOR-Mass-Enumeration-Documents.md
+        - IDOR Bypassing Encoded References (Base64 IDs): CPTS/Web-Attacks/IDOR-Bypassing-Encoded-References.md
+        - IDOR via Insecure API (profile/api.php): CPTS/Web-Attacks/IDOR-Insecure-API-Profile.md
+        - IDOR via Insecure PUT (Account Takeover): CPTS/Web-Attacks/IDOR-Insecure-PUT-Account-Takeover.md
+        - XXE Local File Disclosure (php filter): CPTS/Web-Attacks/XXE-Local-File-Disclosure-PHP-Filter.md
+        - Blind XXE OOB Exfiltration (CDATA Method): CPTS/Web-Attacks/Blind-XXE-OOB-CDATA.md
+        - Blind XXE True OOB Exfiltration (No Output): CPTS/Web-Attacks/Blind-XXE-True-OOB-No-Output.md
+        - Skills Assessment (Chained IDOR + XXE): CPTS/Web-Attacks/Skills-Assessment-Chained-IDOR-XXE.md
+
   - CJCA:
     - Hacking WordPress:
       - Intro: CJCA/hacking-wordpress/intro.md
