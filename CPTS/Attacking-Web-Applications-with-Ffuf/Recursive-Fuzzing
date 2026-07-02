@@ -1,0 +1,91 @@
+# Recursive Fuzzing
+
+**Модуль:** HTB Academy — Attacking Web Applications with FFUF  
+**Секція:** Recursive Fuzzing  
+**Тип:** Web / Directory & File Enumeration  
+**Складність:** Easy  
+
+***
+
+## Огляд
+
+Рекурсивний фаззинг дозволяє автоматично заглиблюватись у знайдені директорії без ручного запуску окремих сканів. FFUF при виявленні директорії одразу запускає новий фаззинг всередині неї з тим же wordlist'ом.
+
+***
+
+## Хід виконання
+
+### Крок 1 — Рекурсивний скан
+
+```bash
+ffuf -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-small.txt:FUZZ \
+  -u http://<TARGET>/FUZZ \
+  -recursion \
+  -recursion-depth 1 \
+  -e .php \
+  -v \
+  -t 40 \
+  -ic
+```
+
+| Прапор | Опис |
+|--------|------|
+| `-recursion` | Автоматично фаззить знайдені директорії |
+| `-recursion-depth 1` | Один рівень вглиб (достатньо для більшості завдань) |
+| `-e .php` | Додає розширення до кожного слова зі словника |
+| `-v` | Verbose — показує повний URL знайдених ресурсів |
+| `-ic` | Ігнорує коментарі у wordlist'і |
+
+### Крок 2 — Перевірка знайдених файлів
+
+```bash
+# Швидка перевірка типових файлів у знайденій директорії
+for f in flag home index about; do
+  echo -n "/forum/${f}.php → "
+  curl -s -o /dev/null -w "%{http_code}\n" http://<TARGET>/forum/${f}.php
+done
+```
+
+```
+/forum/flag.php  → 200  ✅
+/forum/index.php → 200
+/forum/home.php  → 404
+/forum/about.php → 404
+```
+
+### Крок 3 — Отримання прапора
+
+```bash
+curl -s http://<TARGET>/forum/flag.php
+```
+
+***
+
+## Результат
+
+```
+HTB{fuzz1n6_7h3_w3b!}
+```
+
+***
+
+## Нотатки
+
+- Wordlist: `directory-list-2.3-small.txt` — оптимальний баланс швидкості та покриття для навчальних середовищ.
+- `-recursion-depth` тримай на рівні `1–2` в авторизованих тестах — глибший рекурс генерує надмірний трафік.
+- Якщо FFUF не завершує скан (зависає на рекурсії) — додай `-rate 100` для обмеження RPS.
+- Альтернативний інструмент: `feroxbuster` — має рекурсію за замовчуванням:
+
+```bash
+feroxbuster -u http://<TARGET> -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-small.txt \
+  -x php -d 1 -t 40
+```
+
+***
+
+## Інструменти
+
+- **ffuf** — основний інструмент (`-recursion`, `-recursion-depth`, `-e`)
+- **feroxbuster** — альтернатива з рекурсією за замовчуванням
+- **curl** — ручна верифікація знайдених ендпоінтів
+- **Seclists** — `Discovery/Web-Content/directory-list-2.3-small.txt`
