@@ -177,6 +177,11 @@ nav:
         - Blind XXE True OOB Exfiltration (No Output): CPTS/Web-Attacks/Blind-XXE-True-OOB-No-Output.md
         - Skills Assessment (Chained IDOR + XXE): CPTS/Web-Attacks/Skills-Assessment-Chained-IDOR-XXE.md
 
+      - Attacking Common Applications:
+        - Application Discovery Enumeration (EyeWitness Aquatone): CPTS/Attacking-Common-Applications/Application-Discovery-Enumeration.md
+        - Manual WordPress Enumeration (VHost, Plugins, readme.txt): CPTS/Attacking-Common-Applications/Manual-WordPress-Enumeration.md
+        - WordPress Full Chain (Enum, Bruteforce, LFI, RCE): CPTS/Attacking-Common-Applications/WordPress-Full-Attack-Chain.md
+
   - CJCA:
     - Hacking WordPress:
       - Intro: CJCA/hacking-wordpress/intro.md
