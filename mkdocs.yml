@@ -181,6 +181,7 @@ nav:
         - Application Discovery Enumeration (EyeWitness Aquatone): CPTS/Attacking-Common-Applications/Application-Discovery-Enumeration.md
         - Manual WordPress Enumeration (VHost, Plugins, readme.txt): CPTS/Attacking-Common-Applications/Manual-WordPress-Enumeration.md
         - WordPress Full Chain (Enum, Bruteforce, LFI, RCE): CPTS/Attacking-Common-Applications/WordPress-Full-Attack-Chain.md
+        - Joomla Discovery & Enumeration (Version Fingerprint, Bruteforce): CPTS/Attacking-Common-Applications/Joomla-Discovery-Enumeration.md
 
   - CJCA:
     - Hacking WordPress:
