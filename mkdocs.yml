@@ -182,6 +182,12 @@ nav:
         - Manual WordPress Enumeration (VHost, Plugins, readme.txt): CPTS/Attacking-Common-Applications/Manual-WordPress-Enumeration.md
         - WordPress Full Chain (Enum, Bruteforce, LFI, RCE): CPTS/Attacking-Common-Applications/WordPress-Full-Attack-Chain.md
         - Joomla Discovery & Enumeration (Version Fingerprint, Bruteforce): CPTS/Attacking-Common-Applications/Joomla-Discovery-Enumeration.md
+        - Attacking Joomla (Directory Traversal CVE-2019-10945): CPTS/Attacking-Common-Applications/Attacking-Joomla-Directory-Traversal.md
+        - Drupal Discovery & Enumeration (Version Fingerprint): CPTS/Attacking-Common-Applications/Drupal-Discovery-Enumeration.md
+        - Attacking Drupal (PHP Filter, Backdoored Module, Drupalgeddon): CPTS/Attacking-Common-Applications/Attacking-Drupal.md
+        - Tomcat Discovery & Enumeration (Version Fingerprint, Manager Roles): CPTS/Attacking-Common-Applications/Tomcat-Discovery-Enumeration.md
+        - Attacking Tomcat (Manager Bruteforce, WAR Upload, RCE): CPTS/Attacking-Common-Applications/Attacking-Tomcat.md
+        - Jenkins Discovery & Enumeration (Version Fingerprint via X-Jenkins Header): CPTS/Attacking-Common-Applications/Jenkins-Discovery-Enumeration.md
 
   - CJCA:
     - Hacking WordPress:
