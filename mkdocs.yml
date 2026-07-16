@@ -188,6 +188,13 @@ nav:
         - Tomcat Discovery & Enumeration (Version Fingerprint, Manager Roles): CPTS/Attacking-Common-Applications/Tomcat-Discovery-Enumeration.md
         - Attacking Tomcat (Manager Bruteforce, WAR Upload, RCE): CPTS/Attacking-Common-Applications/Attacking-Tomcat.md
         - Jenkins Discovery & Enumeration (Version Fingerprint via X-Jenkins Header): CPTS/Attacking-Common-Applications/Jenkins-Discovery-Enumeration.md
+        - Attacking Jenkins (RCE via Script Console, Groovy Shell): CPTS/Attacking-Common-Applications/Attacking-Jenkins.md
+        - Splunk Discovery & Enumeration (Version Fingerprint via REST API server/info): CPTS/Attacking-Common-Applications/Splunk-Discovery-Enumeration.md
+        - Attacking Splunk (RCE via Custom App Upload, PowerShell Reverse Shell): CPTS/Attacking-Common-Applications/Attacking-Splunk.md
+        - PRTG Network Monitor (RCE via Notification Command Injection, CVE-2018-9276): CPTS/Attacking-Common-Applications/PRTG-Network-Monitor.md
+        - osTicket (Credential Leak via Support Ticket History, OSINT-based Access): CPTS/Attacking-Common-Applications/osTicket.md
+        - GitLab Discovery & Enumeration (Version Fingerprint via /help, Hardcoded Credentials in Repo): CPTS/Attacking-Common-Applications/GitLab-Discovery-Enumeration.md
+        - Attacking GitLab (Username Enumeration, Authenticated RCE via ExifTool CVE-2021-22204): CPTS/Attacking-Common-Applications/Attacking-GitLab.md
 
   - CJCA:
     - Hacking WordPress:
