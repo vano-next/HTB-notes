@@ -199,6 +199,10 @@ nav:
         - Shellshock (CVE-2014-6271, CGI Bash Function Injection via HTTP Headers): CPTS/Attacking-Common-Applications/Shellshock.md
         - Attacking Thick Client Applications (Hardcoded Credentials via ProcMon, x64dbg Memory Dump, de4dot, dnSpy): CPTS/Attacking-Common-Applications/Attacking-Thick-Client-Applications.md
         - Exploiting Web Vulnerabilities in Thick-Client Applications (Java JAR Patching, Path Traversal, SQL Injection): CPTS/Attacking-Common-Applications/Exploiting-Web-Vulnerabilities-in-Thick-Client-Applications.md
+        - ColdFusion - Discovery & Enumeration (Default Ports, CFIDE, Administrator, Server Monitor): CPTS/Attacking-Common-Applications/ColdFusion-Discovery-and-Enumeration.md
+        - Attacking ColdFusion: CPTS/Attacking-Common-Applications/Attacking-ColdFusion.md
+        - IIS Tilde Enumeration: CPTS/Attacking-Common-Applications/IIS-Tilde-Enumeration.md
+        - Attacking-LDAP: CPTS/Attacking-Common-Applications/Attacking-LDAP.md
 
   - CJCA:
     - Hacking WordPress:
