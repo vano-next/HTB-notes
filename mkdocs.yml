@@ -195,6 +195,10 @@ nav:
         - osTicket (Credential Leak via Support Ticket History, OSINT-based Access): CPTS/Attacking-Common-Applications/osTicket.md
         - GitLab Discovery & Enumeration (Version Fingerprint via /help, Hardcoded Credentials in Repo): CPTS/Attacking-Common-Applications/GitLab-Discovery-Enumeration.md
         - Attacking GitLab (Username Enumeration, Authenticated RCE via ExifTool CVE-2021-22204): CPTS/Attacking-Common-Applications/Attacking-GitLab.md
+        - Attacking Tomcat CGI (RCE via CVE-2019-0232, CGI Command Injection, URL-Encoding Bypass): CPTS/Attacking-Common-Applications/Attacking-Tomcat-CGI.md
+        - Shellshock (CVE-2014-6271, CGI Bash Function Injection via HTTP Headers): CPTS/Attacking-Common-Applications/Shellshock.md
+        - Attacking Thick Client Applications (Hardcoded Credentials via ProcMon, x64dbg Memory Dump, de4dot, dnSpy): CPTS/Attacking-Common-Applications/Attacking-Thick-Client-Applications.md
+        - Exploiting Web Vulnerabilities in Thick-Client Applications (Java JAR Patching, Path Traversal, SQL Injection): CPTS/Attacking-Common-Applications/Exploiting-Web-Vulnerabilities-in-Thick-Client-Applications.md
 
   - CJCA:
     - Hacking WordPress:
