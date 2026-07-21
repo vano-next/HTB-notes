@@ -214,6 +214,9 @@ nav:
         - Environment-Enumeration: CPTS/Linux-Privilege-Escalation/Environment-Enumeration.md
         - Linux-Services-Internals-Python: CPTS/Linux-Privilege-Escalation/Linux-Services-Internals-Python.md
         - Path-Abuse: CPTS/Linux-Privilege-Escalation/Path-Abuse.md
+        - Escaping-Restricted-Shells: CPTS/Linux-Privilege-Escalation/Escaping-Restricted-Shells.md
+        - Special-Permissions: CPTS/Linux-Privilege-Escalation/Special-Permissions.md
+        - Sudo-Rights-Abuse: CPTS/Linux-Privilege-Escalation/Sudo-Rights-Abuse.md
 
   - CJCA:
     - Hacking WordPress:
