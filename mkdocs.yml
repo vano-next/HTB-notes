@@ -203,6 +203,12 @@ nav:
         - Attacking ColdFusion: CPTS/Attacking-Common-Applications/Attacking-ColdFusion.md
         - IIS Tilde Enumeration: CPTS/Attacking-Common-Applications/IIS-Tilde-Enumeration.md
         - Attacking-LDAP: CPTS/Attacking-Common-Applications/Attacking-LDAP.md
+        - Web Mass Assignment (Asset Manager): CPTS/Attacking-Common-Applications/Web-Mass-Assignment-Asset-Manager.md
+        - Attacking-Applications-Connecting-to-Services: CPTS/Attacking-Common-Applications/Attacking-Applications-Connecting-to-Services.md
+        - Other-Notable-Applications-WebLogic: CPTS/Attacking-Common-Applications/Other-Notable-Applications-WebLogic.md
+        - Attacking Common Applications - Skills Assessment I: CPTS/Attacking-Common-Applications/Attacking-Skills-Assessment-1.md
+        - Attacking-Skills-Assessment-2: CPTS/Attacking-Common-Applications/Attacking-Skills-Assessment-2.md
+        - Attacking-Skills-Assessment-3: CPTS/Attacking-Common-Applications/Attacking-Skills-Assessment-3.md
 
   - CJCA:
     - Hacking WordPress:
