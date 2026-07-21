@@ -210,6 +210,11 @@ nav:
         - Attacking-Skills-Assessment-2: CPTS/Attacking-Common-Applications/Attacking-Skills-Assessment-2.md
         - Attacking-Skills-Assessment-3: CPTS/Attacking-Common-Applications/Attacking-Skills-Assessment-3.md
 
+      - Linux Privilege Escalation:
+        - Environment-Enumeration: CPTS/Linux-Privilege-Escalation/Environment-Enumeration.md
+        - Linux-Services-Internals-Python: CPTS/Linux-Privilege-Escalation/Linux-Services-Internals-Python.md
+        - Path-Abuse: CPTS/Linux-Privilege-Escalation/Path-Abuse.md
+
   - CJCA:
     - Hacking WordPress:
       - Intro: CJCA/hacking-wordpress/intro.md
