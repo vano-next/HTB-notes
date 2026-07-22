@@ -217,6 +217,13 @@ nav:
         - Escaping-Restricted-Shells: CPTS/Linux-Privilege-Escalation/Escaping-Restricted-Shells.md
         - Special-Permissions: CPTS/Linux-Privilege-Escalation/Special-Permissions.md
         - Sudo-Rights-Abuse: CPTS/Linux-Privilege-Escalation/Sudo-Rights-Abuse.md
+        - Privileged-Groups: CPTS/Linux-Privilege-Escalation/Privileged-Groups.md
+        - Capabilities: CPTS/Linux-Privilege-Escalation/Capabilities.md
+        - Vulnerable-Services: CPTS/Linux-Privilege-Escalation/Vulnerable-Services.md
+        - Cron-Job-Abuse: CPTS/Linux-Privilege-Escalation/Cron-Job-Abuse.md
+        - Containers: CPTS/Linux-Privilege-Escalation/Containers.md
+        - Docker: CPTS/Linux-Privilege-Escalation/Docker.md
+        - Logrotate: CPTS/Linux-Privilege-Escalation/Logrotate.md
 
   - CJCA:
     - Hacking WordPress:
