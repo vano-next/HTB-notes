@@ -1,4 +1,4 @@
-## Miscellaneous Techniques – NFS / Logrotate (експортний флаг)
+## Miscellaneous Techniques
 
 Ціль: `10.129.2.210`  
 
